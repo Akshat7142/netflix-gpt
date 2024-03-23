@@ -68,3 +68,56 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!-- *
+#Netflix gpt
+ - create react app
+ - configured tailwind css
+ - Header
+ - routing of app
+ - login
+ - sign up form
+ - useRef hook
+ - Form validation
+ - Firebase setup
+ - Deploying our project
+ - create signup in firebase
+ - implement sign in user API
+ - created our store
+ - implemented Sign Out
+ - update profile
+ - BugFix: sign up user displayname and profile picture update
+ - Unsubscribed to the onauthStateChange
+ - Add Hardcoded files to the constants file
+ - Register on TMDB and create an app and get access to token
+ - Get data fro TMDB -> Now Playing movies list
+ - custom hook for now playing movies
+ - created movieSlice
+ - updated store with movies Data
+ - planning for maincontainer and secondary container
+ - Fetch data for trailer video
+ - update store with trailer video data
+ - Embedded the youtube video and made it autoplay and mute
+ - Tailwind classes to make main container look awesome
+ - Build secondary container
+ - Build movie list
+ - Build movie card
+ - TMDB img CDN url
+ - Made browser page amazing with Tailwind css
+ - usePopularMovies custom hook
+ - GPT search feature
+ - (BONUS) get multi-language feature in our app
+ 
+
+# Features
+- login/sign
+   - sign in/sign up page
+   - redirect to browser
+ - Browser
+   - header
+   - main movie
+     - trailer
+     - title in description
+     - movie suggestion
+      - movie list * N
+ -->
